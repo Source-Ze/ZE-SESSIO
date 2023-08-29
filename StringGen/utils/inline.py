@@ -9,7 +9,7 @@ keyboard = InlineKeyboardMarkup(
         [
             InlineKeyboardButton(text="جرۆبْ آلُدِعم", url=SUPPORT_CHAT),
             InlineKeyboardButton(
-                text="●○𝚂𝙴𝚉𝙰𝚁○●", url="https://t.me/UIU_II"
+                text="●○𝐙𝐄○●", url="https://t.me/UI_OS"
             ),
         ],
     ]
